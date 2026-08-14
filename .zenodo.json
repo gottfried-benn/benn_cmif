@@ -1,0 +1,29 @@
+{
+  "title": "CMIF-Dateien für die Editionen der Korrespondenz Gottfried Benns",
+  "description": "<p>Correspondence Metadata Interchange Format (CMIF)-Dateien für gedruckte und digitale Editionen der Korrespondenz Gottfried Benns. Werden in correspSearch (https://correspsearch.net) eingespielt.</p><p>Quellcode: <a href=\"https://github.com/correspsearch-Editionen/correspsearch-Editionen_XML\">github.com/acorrespsearch-Editionen/correspsearch-Editionen_XML</a></p>",
+  "creators": [
+    {
+      "name": "Müller, Samuel",
+      "affiliation": "Universität Würzburg",
+      "orcid": "0009-0004-2162-5621"
+    }
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY 4.0",
+  "language": "deu",
+  "keywords": [
+    "Gottfried Benn",
+    "Moderne",
+    "Digital Scholarly Editing",
+    "Digital Humanities",
+    "CMIF",
+    "correspSearch",
+    "Korrespondenzmetadaten"
+  ],
+  "communities": [
+    {
+      "identifier": "dh"
+    }
+  ]
+}
