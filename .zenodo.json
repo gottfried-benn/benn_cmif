@@ -1,6 +1,6 @@
 {
   "title": "CMIF-Dateien für die Editionen der Korrespondenz Gottfried Benns",
-  "description": "<p>Correspondence Metadata Interchange Format (CMIF)-Dateien für gedruckte und digitale Editionen der Korrespondenz Gottfried Benns. Werden in correspSearch (https://correspsearch.net) eingespielt.</p><p>Quellcode: <a href=\"https://github.com/correspsearch-Editionen/correspsearch-Editionen_XML\">github.com/acorrespsearch-Editionen/correspsearch-Editionen_XML</a></p>",
+  "description": "<p>Correspondence Metadata Interchange Format (CMIF)-Dateien für gedruckte und digitale Editionen der Korrespondenz Gottfried Benns. Werden in correspSearch (https://correspsearch.net) eingespielt.</p><p>Quellcode: <a href=\"https://github.com/correspsearch-Editionen/gottfried-benn/benn_cmif\">github.com/gottfried-benn/benn_cmif</a></p>",
   "creators": [
     {
       "name": "Müller, Samuel",
