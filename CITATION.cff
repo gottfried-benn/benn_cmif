@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Wenn Sie diese Edition zitieren, verwenden Sie bitte die folgenden Metadaten."
+type: dataset
+title: "CMIF-Dateien für die Editionen der Korrespondenz Gottfried Benns"
+abstract: "Correspondence Metadata Interchange Format (CMIF)-Dateien für gedruckte und digitale Editionen der Korrespondenz Gottfried Benns. Werden in correspSearch (https://correspsearch.net) eingespielt."
+authors:
+  - family-names: "Müller"
+    given-names: "Samuel"
+    orcid: "https://orcid.org/0009-0004-2162-5621"
+    affiliation: "Universität Würzburg"
+  - family-names: "Kraft"
+    given-names: "Stephan"
+    affiliation: "Universität Würzburg"
+  - family-names: "Keller"
+    given-names: "Franziska"
+    affiliation: "Universität Würzburg"
+  - family-names: "Kieninger"
+    given-names: "Lena"
+    affiliation: "Universität Würzburg"
+repository-code: "https://github.com/gottfried-benn/benn_cmif"
+license: CC-BY-4.0
+keywords:
+  - "Gottfried Benn"
+  - "Moderne"
+  - "Digital Scholarly Editing"
+  - "Digital Humanities"
+  - "CMIF"
+  - "correspSearch"
+  - "Korrespondenzmetadaten"
