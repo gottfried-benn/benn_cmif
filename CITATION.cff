@@ -17,6 +17,9 @@ authors:
   - family-names: "Kieninger"
     given-names: "Lena"
     affiliation: "Universität Würzburg"
+  - family-names: "Hof"
+    given-names: "Holger"
+    affiliation: "Universität Würzburg"
 repository-code: "https://github.com/gottfried-benn/benn_cmif"
 license: CC-BY-4.0
 keywords:
