@@ -484,7 +484,7 @@
                     <date when="1924-04-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2950159"
                         >Berlin</placeName>
                 </correspAction>
