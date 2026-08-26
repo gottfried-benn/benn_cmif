@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>2025_schiratzki_1924-1928</title>
+                <editor>Samuel Müller<email>samuel.mueller@uni-wuerzburg.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.germanistik.uni-wuerzburg.de/prof-ndl/team/kraft/">Stephan Kraft</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2026-08-27T16:36:50.308-02:00"/>
+                <idno type="url">https://raw.githubusercontent.com/gottfried-benn/benn_cmif/refs/heads/main/2025_schiratzki_1924-1928</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="lcd5a5f9-c6eb-44ca-9102-b2642e3e132f">Holger Hof und Samuel Müller: Gottfried Benns Briefe an Bertha Schiratzki und Oda Weitbrecht (mit einem Brief von Oda Weitbrecht an Gottfried Benn). In: Benn Forum 9 (2024/2025), S. 237–265. (doi: 10.1515/9783111677064-012)<ref target="https://www.degruyterbrill.com/de/document/doi/10.1515/9783111677064-012/html">https://www.degruyterbrill.com/de/document/doi/10.1515/9783111677064-012/html</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="1">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1924-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="2">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1924-04-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture">Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="3">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1924-05-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="4">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1924-07-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture">Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="5">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1924-08-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Bertha Schiratzki</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="6">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1924-08-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="7">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1924-08-01" notAfter="1924-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="8">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1924-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="9">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1924-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="10">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1925-01-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="11">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1925-01-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="12">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1925-02-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="13">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1925-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117274755">Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="14">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1925-01-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117274755">Bertha Schiratzki</persName>
+                    <placeName ref="http://www.geonames.org/2659836">Lugano</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="15">
+                <correspAction type="sent">
+                    <persName>Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date>1925-08-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117274755">Bertha Schiratzki</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1926-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117274755">Bertha Schiratzki</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117274755">Bertha Schiratzki</persName>
+                    <placeName ref="http://www.geonames.org/2661712">Arosa</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
