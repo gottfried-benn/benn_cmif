@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Gottfried Benn - Briefe an Astrid Claes 1951-1956</title>
-                <editor>Lena Kieninger<email>lena.kieninger@stud-mail.uni-wuerzburg.de</email>
+                <editor>Lena Kieninger
                 </editor>
             </titleStmt>
             <publicationStmt>
@@ -14,6 +14,7 @@
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
                 <date when="2026-09-06T12:10:17.330-02:00"/>
+                <idno type="url">https://raw.githubusercontent.com/gottfried-benn/benn_cmif/refs/heads/main/2002_claes_1951-1956.xml</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="print" xml:id="me8f799d-6d27-4885-b8c2-4cf4314cc11f">Gottfried Benn: Briefe an Astrid Claes. 1951–1956, hg. v. Bernd Witte, Stuttgart 2002.</bibl>
@@ -73,7 +74,7 @@
             <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="6">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1954-04-21"/>
                 </correspAction>
                 <correspAction type="received">
@@ -485,7 +486,7 @@
             <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="47">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1955-02-15"/>
                 </correspAction>
                 <correspAction type="received">
@@ -495,7 +496,7 @@
             <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="48">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1955-02-17"/>
                 </correspAction>
                 <correspAction type="received">
@@ -638,7 +639,7 @@
             <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="62">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1955-11-03"/>
                 </correspAction>
                 <correspAction type="received">
@@ -669,7 +670,7 @@
             <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="65">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1956-05-07"/>
                 </correspAction>
                 <correspAction type="received">
