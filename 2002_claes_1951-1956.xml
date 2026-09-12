@@ -1,0 +1,696 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gottfried Benn - Briefe an Astrid Claes 1951-1956</title>
+                <editor>Lena Kieninger<email>lena.kieninger@stud-mail.uni-wuerzburg.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.germanistik.uni-wuerzburg.de/prof-ndl/team/kraft/">Stephan Kraft</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2026-09-06T12:10:17.330-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="me8f799d-6d27-4885-b8c2-4cf4314cc11f">Gottfried Benn: Briefe an Astrid Claes. 1951–1956, hg. v. Bernd Witte, Stuttgart 2002.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-11-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1953-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-04-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-04-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-04-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1954-05-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-06-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-06-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-06-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date evidence="conjecture" when="1954-06-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-07-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-07-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-07-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-07-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-07-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1954-07-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date evidence="conjecture" when="1954-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-07-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1954-08-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                    <date when="1954-08-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1954-08-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118698478">Rainer Gruenter</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118698478">Rainer Gruenter</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-06-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-06-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-06-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/116121041">Ilse Benn</persName>
+                    <placeName ref="http://www.geonames.org/2810284">Westerland</placeName>
+                    <date when="1955-08-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-08-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-09-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-09-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date evidence="conjecture" when="1954-11-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                    <date when="1955-11-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-05-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me8f799d-6d27-4885-b8c2-4cf4314cc11f" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-05-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
