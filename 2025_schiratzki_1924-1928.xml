@@ -202,7 +202,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date when="1928-12-27"/>
+                    <date when="1928-12-22"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/117274755">Bertha Schiratzki</persName>
