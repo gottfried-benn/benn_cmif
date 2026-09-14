@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Benn - Absinth Briefe 1904-1956</title>
-                <editor>Franziska Keller<email>franziska.keller@stud-mail.uni-wuerzburg.de</email>
+                <editor>Franziska Keller
                 </editor>
             </titleStmt>
             <publicationStmt>
@@ -53,26 +53,26 @@
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="4">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <date notBefore="1910-10-01" cert="low" notAfter="1911-03-31">Wintersemester 1910-1911</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture">Leonhard Koenigsmann</persName>
+                    <persName>Leonhard Koenigsmann</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="5">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2852218">Prenzlau</placeName>
                     <date when="1912-05-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture">Leonhard Koenigsmann</persName>
+                    <persName>Leonhard Koenigsmann</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="6">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName ref="http://www.geonames.org/2841333">Sassnitz</placeName>
                     <date when="1912-08-12"/>
                 </correspAction>
@@ -82,7 +82,7 @@
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="7">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <date notBefore="1912-08-12">nach dem 12.08.1912</date>
                 </correspAction>
                 <correspAction type="received">
@@ -91,7 +91,7 @@
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="8">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1913-03-04"/>
                 </correspAction>
@@ -101,58 +101,58 @@
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="9">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1913-04-03"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/11949907X">Rudolf Hartig</persName>
+                    <persName ref="https://d-nb.info/gnd/11949907X">Rudolf Hartig</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="10">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1913-04-12"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118636278">Paul Zech</persName>
+                    <persName ref="https://d-nb.info/gnd/118636278">Paul Zech</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="11">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date evidence="conjecture" when="1913-05-18"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118636278">Paul Zech</persName>
+                    <persName ref="https://d-nb.info/gnd/118636278">Paul Zech</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="12">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1913-08-17"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118822349">Heinrich F.S. Bachmair</persName>
+                    <persName ref="https://d-nb.info/gnd/118822349">Heinrich F.S. Bachmair</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="13">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date evidence="conjecture" when="1913-09-02"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118636278">Paul Zech</persName>
+                    <persName ref="https://d-nb.info/gnd/118636278">Paul Zech</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="14">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1914-01-07"/>
                 </correspAction>
@@ -164,18 +164,18 @@
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="15">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
                     <date when="1914-05-10"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture">Leonhard Koenigsmann</persName>
+                    <persName>Leonhard Koenigsmann</persName>
                     <placeName ref="http://www.geonames.org/2925177">Freiburg im Breisgau</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="16">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2800866">Brüssel</placeName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2800866">Brüssel</placeName>
                     <date when="1915-10-17"/>
                 </correspAction>
                 <correspAction type="received">
@@ -185,18 +185,18 @@
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="17">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2800866">Brüssel</placeName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2800866">Brüssel</placeName>
                     <date when="1916-03-08"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118782746">Gustav Mayer</persName>
+                    <persName ref="https://d-nb.info/gnd/118782746">Gustav Mayer</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="18">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1919-06-26"/>
                 </correspAction>
@@ -206,58 +206,58 @@
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="19">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1920-03-31"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116689064">Ernestine Costa</persName>
+                    <persName ref="https://d-nb.info/gnd/116689064">Ernestine Costa</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="20">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1920-11-06"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116518960">Max Krell</persName>
+                    <persName ref="https://d-nb.info/gnd/116518960">Max Krell</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="21">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date evidence="conjecture" when="1920-12-31"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118542672">George Grosz</persName>
+                    <persName ref="https://d-nb.info/gnd/118542672">George Grosz</persName>
                     <placeName ref="http://www.geonames.org/2950159" cert="low">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="22">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1921-06-25"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116602694">Elsa Fleischmann</persName>
+                    <persName ref="https://d-nb.info/gnd/116602694">Elsa Fleischmann</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="23">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1922-07-31"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116982209">Gertrud Cassel</persName>
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Cassel</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="24">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1924-07-30"/>
                 </correspAction>
@@ -268,55 +268,55 @@
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="25">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1925-07-14"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/117094714">Elsa Wagner</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2953440">Tobel bei Bad Herrenalb</placeName>
+                    <persName ref="https://d-nb.info/gnd/117094714">Elsa Wagner</persName>
+                    <placeName ref="http://www.geonames.org/2953440">Tobel bei Bad Herrenalb</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="26">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1925-07-23"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116689064">Ernestine Costa</persName>
+                    <persName ref="https://d-nb.info/gnd/116689064">Ernestine Costa</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="27">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1925-08-17"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116982209">Gertrud Cassel</persName>
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Cassel</persName>
                     <placeName ref="http://www.geonames.org/2925535">Schloss Neuhardenberg bei Frankfurt an der Oder</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="28">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1925-10-19"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/116982209">Gertrud Cassel</persName>
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Cassel</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="29">
                 <correspAction type="sent">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1925-12-03"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName evidence="conjecture" ref="https://d-nb.info/gnd/136573819">Walter Petry</persName>
+                    <persName ref="https://d-nb.info/gnd/136573819">Walter Petry</persName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#ffeba5df-3135-4f38-b7fc-be2cd178d7f6" key="30">
