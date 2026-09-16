@@ -16,7 +16,7 @@
                 <date when="2026-03-22T18:11:02.364-01:00"/>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="print" xml:id="x908fe56-317a-4295-83f0-7e4b68ff977e">Gottfried Benn – Friedrich Wilhelm Oelze: Briefwechsel 1932-1956, hg. v. Harald Steinhagen, Stephan Kraft und Holger Hof, 4 Bände, Wallstein und Klett Cotta, Göttingen und Stuttgart 2016. </bibl>
+                <bibl type="print" xml:id="x908fe56-317a-4295-83f0-7e4b68ff977e">Gottfried Benn – Friedrich Wilhelm Oelze: Briefwechsel 1932-1956, hg. v. Harald Steinhagen, Stephan Kraft und Holger Hof, Band 1, Wallstein und Klett Cotta, Göttingen und Stuttgart 2016. </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -3250,7 +3250,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date evidence="conjecture" when="1041-06-02"/>
+                    <date evidence="conjecture" when="1941-06-02"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/117105384">Friedrich Wilhelm Oelze</persName>
@@ -3261,7 +3261,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date when="1041-06-09"/>
+                    <date when="1941-06-09"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/117105384">Friedrich Wilhelm Oelze</persName>
@@ -3272,7 +3272,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date when="1041-06-19"/>
+                    <date when="1941-06-19"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/117105384">Friedrich Wilhelm Oelze</persName>
