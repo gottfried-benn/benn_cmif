@@ -29,7 +29,7 @@
                     <date from="1924-12-23" to="1924-12-25"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/GND-ODA-WEITBRECHT">Oda Weitbrecht</persName>
+                    <persName ref="https://d-nb.info/gnd/117306703">Oda Weitbrecht</persName>
                     <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
                 </correspAction>
             </correspDesc>
@@ -40,7 +40,7 @@
                     <date when="1925-02-24"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/GND-ODA-WEITBRECHT">Oda Weitbrecht</persName>
+                    <persName ref="https://d-nb.info/gnd/117306703">Oda Weitbrecht</persName>
                     <placeName ref="http://www.geonames.org/2924894">Freudenstadt</placeName>
                 </correspAction>
             </correspDesc>
@@ -51,7 +51,7 @@
                     <date when="1925-04-23"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/GND-ODA-WEITBRECHT">Oda Weitbrecht</persName>
+                    <persName ref="https://d-nb.info/gnd/117306703">Oda Weitbrecht</persName>
                     <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
                 </correspAction>
             </correspDesc>
@@ -62,7 +62,7 @@
                     <date when="1925-04-29"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/GND-ODA-WEITBRECHT">Oda Weitbrecht</persName>
+                    <persName ref="https://d-nb.info/gnd/117306703">Oda Weitbrecht</persName>
                     <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
                 </correspAction>
             </correspDesc>
@@ -73,7 +73,7 @@
                     <date when="1925-05-01"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/GND-ODA-WEITBRECHT">Oda Weitbrecht</persName>
+                    <persName ref="https://d-nb.info/gnd/117306703">Oda Weitbrecht</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2852458">Potsdam</placeName>
                 </correspAction>
             </correspDesc>
@@ -84,13 +84,13 @@
                     <date when="1925-11-12"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/GND-ODA-WEITBRECHT">Oda Weitbrecht</persName>
+                    <persName ref="https://d-nb.info/gnd/117306703">Oda Weitbrecht</persName>
                     <placeName evidence="conjecture" ref="http://www.geonames.org/2852458">Potsdam</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="7">
                 <correspAction type="sent">
-                    <persName ref="https://d-nb.info/gnd/GND-ODA-WEITBRECHT">Oda Weitbrecht</persName>
+                    <persName ref="https://d-nb.info/gnd/117306703">Oda Weitbrecht</persName>
                     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
                     <date when="1930-04-10"/>
                 </correspAction>
