@@ -1,0 +1,2865 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Benn - Ausgewählte Briefe 1957</title>
+                <editor>Franziska Keller<email>franziska.keller@stud-mail.uni-wuerzburg.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.germanistik.uni-wuerzburg.de/prof-ndl/team/kraft/">Stephan Kraft</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2026-09-12T22:11:28.676-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="s635349d-e33c-4a5b-acf6-012b2d4e5499">Gottfried Benn: Ausgewählt Briefe, Limes Verlag, Wiesbaden 1957.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2925535">Frankfurt an der Oder</placeName>
+                    <date when="1900-01-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1281122688">Ruth Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2919054">Göppingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1913-04-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636278">Paul Zech</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date evidence="conjecture" when="1913-05-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636278">Paul Zech</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date evidence="conjecture" when="1913-09-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636278">Paul Zech</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1914-03-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636278">Paul Zech</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2800866">Brüssel</placeName>
+                    <date when="1916-02-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636278">Paul Zech</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1917-09-01" notAfter="1917-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Dorothee Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date notAfter="1921">Vor 1921</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Dorothee Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date notBefore="1921-03-01" notAfter="1921-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Dorothee Hahn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1921-06-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116602694">Elsa Fleischmann-Fleming</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1921-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date notBefore="1922-01-01" notAfter="1922-06">wahrscheinlich Anfang 1922</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1922-03-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1922-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>zen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date evidence="conjecture" when="1922"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1922-05-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1922-05-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1922-09-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1922-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date to="1926-02-27" from="1926-02-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117316679">Alice Schuster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1926-09-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1926-11-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3097257">Hirschberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1927-10-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116602694">Elsa Fleischmann-Fleming</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1928-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/2865223">Neuhardenberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1928-05-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1928-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1929-01-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118673858">Bernard von Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1929-02-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116602694">Elsa Fleischmann-Fleming</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1929-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1180448243">Sophia Wasmuth</persName>
+                    <persName ref="https://d-nb.info/gnd/117148350">Ewald Wasmuth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1929-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1180448243">Sophia Wasmuth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1929-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1929-03-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117148350">Ewald Wasmuth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1929-05-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1180448243">Sophia Wasmuth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1930-05-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119279673">Gertrud Hindemith</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1930-06-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119279673">Gertrud Hindemith</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1930-07-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118551256">Paul Hindemith</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1930-07-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118551256">Paul Hindemith</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt a. M.</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1930-08-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118551256">Paul Hindemith</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1930-09-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1930-10-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118551256">Paul Hindemith</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1930-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118551256">Paul Hindemith</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1931-02-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116324821">Richard Gabel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1931-03-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118551256">Paul Hindemith</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1931-05-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118551256">Paul Hindemith</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1931-05-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118551256">Paul Hindemith</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1931-06-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118551256">Paul Hindemith</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1931-06-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118551256">Paul Hindemith</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1931-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1931-08-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116602694">Elsa Fleischmann-Fleming</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1931-08-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1931-08-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119279673">Gertrud Hindemith</persName>
+                    <persName ref="https://d-nb.info/gnd/118551256">Paul Hindemith</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2878824">Lenggries</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1931-08-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1931-12-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117148350">Ewald Wasmuth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1931-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1932-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1932-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1932-11-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1933-03-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118760629">Ina Seidel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1933-03-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509179">Max Bense</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1933-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118760629">Ina Seidel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1933-11-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118760629">Ina Seidel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1934-03-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117148350">Ewald Wasmuth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1934-04-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118760629">Ina Seidel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1934-06-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509179">Max Bense</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1934-08-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118760629">Ina Seidel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2858964">Oberstdorf</placeName>
+                    <date when="1934-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118760629">Ina Seidel</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2829457">Starnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1934-10-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509179">Max Bense</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1934-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118760629">Ina Seidel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1935-02-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509179">Max Bense</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1935-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116758414">Frank Maraun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1935-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116603267">Paul S. Fleischmann</persName>
+                    <persName ref="https://d-nb.info/gnd/116602694">Elsa Fleischmann</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1935-05-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116758414">Frank Maraun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1936-04-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118815598">Erich Pfeiffer-Belli</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1936-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116758414">Frank Maraun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1936-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116758414">Frank Maraun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1936-10-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117148350">Ewald Wasmuth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1936-11-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117416312">Egon Vietta</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1937-03-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509179">Max Bense</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1939-08-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117105384">Friedrich Wilhelm Oelze</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1940-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117105384">Friedrich Wilhelm Oelze</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1941-03-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117105384">Friedrich Wilhelm Oelze</persName>
+                    <placeName ref="http://www.geonames.org/2838634">Schleswig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1941-10-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117105384">Friedrich Wilhelm Oelze</persName>
+                    <placeName ref="http://www.geonames.org/2838634">Schleswig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1941-10-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117105384">Friedrich Wilhelm Oelze</persName>
+                    <placeName ref="http://www.geonames.org/2838634">Stammlager XA in Schleswig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1942-02-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116171707">Gustav Kilpper</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1944-01-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116171707">Gustav Kilpper</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/3098722">Landsberg a. Warthe</placeName>
+                    <date when="1943-10-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116171707">Gustav Kilpper</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/3098722">Landsberg a. Warthe</placeName>
+                    <date when="1943-10-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116171707">Gustav Kilpper</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/3098722">Landsberg a. Warthe</placeName>
+                    <date when="1943-11-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116171707">Gustav Kilpper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/3098722">Landsberg a. Warthe</placeName>
+                    <date when="1944-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117452556">Nele Sörensen-Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1945-11-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116387416">Else C. Kraus</persName>
+                    <persName ref="https://d-nb.info/gnd/117316679">Alice Schuster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1946-03-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                    <orgName>Südverlag Weyl</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1946-03-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632051">Johannes Weyl</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1946-05-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119239175">Erich Reiss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1946-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632051">Johannes Weyl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1946-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116758414">Frank Maraun</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1946-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116758414">Frank Maraun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1946-09-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117452556">Nele Sörensen-Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1946-09-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116758414">Frank Maraun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="99">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1946-11-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119512920">Erna Pinner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1946-11-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119239175">Erich Reiss</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="103">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1012413659">Fritz Werner</persName>
+                    <placeName ref="http://www.geonames.org/2925177">Freiburg i. Br.</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-06-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117324981">Alfred Vagts</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="105">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-06-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-10-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116758414">Frank Maraun</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="107">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-11-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119512920">Erna Pinner</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-11-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117452556">Nele Sörensen-Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116758414">Frank Maraun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-05-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118760629">Ina Seidel</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2829457">Starnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="111">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="112">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-09-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="113">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118523058">Ernst Robert Curtius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="114">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-11-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1012413659">Fritz Werner</persName>
+                    <placeName ref="http://www.geonames.org/2925177">Freiburg i. Br.</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="115">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118746502">Heinz Friedrich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="116">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1948-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119239175">Erich Reiss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119239175">Erich Reiss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="118">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-01-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116171707">Gustav Kilpper</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="119">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-01-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119239175">Erich Reiss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="120">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-02-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                    <placeName ref="http://www.geonames.org/5128581">New York</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="121">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-02-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11954489X">Karl Schwedhelm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-03-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1012413659">Fritz Werner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="123">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119239175">Erich Reiss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="124">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-03-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117324981">Alfred Vagts</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="125">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-03-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116758414">Frank Maraun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="126">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-03-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="127">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-04-17">Ostern 1949</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1012413659">Fritz Werner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="128">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1949-04-17" evidence="conjecture" notAfter="1949-04-20">Ostern 1949</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116758414">Frank Maraun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118514067">Margret Boveri</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="131">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-05-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1949-05-12"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="132">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-05-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1012413659">Fritz Werner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-05-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="134">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118523058">Ernst Robert Curtius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="135">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-06-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118523058">Ernst Robert Curtius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="136">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-06-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116171707">Gustav Kilpper</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="137">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118815598">Erich Pfeiffer-Belli</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="138">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-07-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119512920">Erna Pinner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="139">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118514067">Margret Boveri</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="140">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-08-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118800728">Rudolf Krämer-Badoni</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="141">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-08-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="142">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-09-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509179">Max Bense</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="143">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-09-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="144">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118673858">Bernard von Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="145">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-10-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/136211836">Frank Benseler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="146">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119512920">Erna Pinner</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="147">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-11-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116758414">Frank Maraun</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="148">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-11-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118923935">Armin Mohler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="149">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-12-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="150">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-12-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="151">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-12-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="152">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-01-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118523058">Ernst Robert Curtius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="153">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="154">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-04-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="154">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1959-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118673858">Bernard von Brentano</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="156">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-05-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118564072">Thilo Koch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="157">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-06-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118923935">Armin Mohler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="158">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-07-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="159">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-07-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118514067">Margret Boveri</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="160">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-07-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118514067">Margret Boveri</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="161">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-08-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="162">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-08-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="163">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-10-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509179">Max Bense</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="164">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-10-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118564072">Thilo Koch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="165">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-11-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118523058">Ernst Robert Curtius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="166">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-11-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118630814">Dieter Wellershoff</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="167">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-02-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="168">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-02-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="169">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-02-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118523058">Ernst Robert Curtius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="170">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117148350">Ewald Wasmuth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2820860">Tübingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="171">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-04-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="172">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-04-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118630814">Dieter Wellershoff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="173">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119239175">Erich Reiss</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="174">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-04-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117148350">Ewald Wasmuth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="175">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118632051">Johannes Weyl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="176">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116982209">Gertrud Zenzes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="177">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-05-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="178">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-05-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118760629">Ina Seidel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="179">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119286408">Lotte Reiss-Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="180">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118523058">Ernst Robert Curtius</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-10-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/107017156">Clemens Graf Podewils</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="182">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-11-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="183">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-11-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118514067">Margret Boveri</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="184">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="185">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-12-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="186">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119286408">Lotte Reiss-Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="187">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-01-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="188">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="189">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-02-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117196770">Edgar Lohner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="190">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-03-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/128793457">Helmut Lamprecht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="191">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-03-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="192">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <date evidence="conjecture" when="1952-04-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118706675">Hans Egon Holthusen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="193">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-04-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="194">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-05-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118923935">Armin Mohler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="195">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-05-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118746502">Heinz Friedrich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="196">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-06-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="197">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-06-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="198">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1952-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="199">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1952-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="200">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-07-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118765191">Friedrich Sieburg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="201">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-07-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="202">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-08-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118765191">Friedrich Sieburg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="203">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-09-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117136182">Joachim Moras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="204">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117136182">Joachim Moras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="205">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-12-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118706675">Hans Egon Holthusen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="206">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="207">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-12-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="208">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-01-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="209">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-02-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="210">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-03-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118746502">Heinz Friedrich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="211">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-03-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="212">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2660646">Genf</placeName>
+                    <date when="1953-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="213">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1953-03-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="214">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-05-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124379612X">Friedrich Siems</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="215">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-07-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116387416">Else C. Kraus</persName>
+                    <persName ref="https://d-nb.info/gnd/117316679">Alice Schuster</persName>
+                    <placeName ref="http://www.geonames.org/2759345">Huis Wylerberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="216">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-08-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117136182">Joachim Moras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="217">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-10-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="218">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="219">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-12-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119286408">Lotte Reiss-Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="220">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="221">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-03-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118760629">Ina Seidel</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2829457">Starnberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="222">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-04-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="223">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-04-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116476389">Thomas Christoph Harlan-Körber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="224">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-04-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="225">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-05-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118706675">Hans Egon Holthusen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="226">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-06-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="227">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1954-06-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="228">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-07-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="229">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName>ber</placeName>
+                    <date when="1954-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="230">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <date when="1954-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="231">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-07-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117196770">Edgar Lohner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="232">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-07-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117381144">Wolfgang Wilhelm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="233">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11924294X">Thea Sternheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="234">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="235">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="236">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="237">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119512920">Erna Pinner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="238">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119512920">Erna Pinner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="239">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11954489X">Karl Schwedhelm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="240">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="241">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="242">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="243">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="244">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119512920">Erna Pinner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="245">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117283185">Heinz Ullstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="246">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-06-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="247">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116543795">Ulrich Riemerschmidt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="248">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-06-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118765191">Friedrich Sieburg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="249">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-06-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116712503">Elly Rychner</persName>
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="250">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="251">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-08-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119512920">Erna Pinner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="252">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-09-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="253">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-09-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="254">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117196770">Edgar Lohner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="255">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-10-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118687859">Kasimir Edschmid</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="256">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-11-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118765191">Friedrich Sieburg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="257">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117316679">Alice Schuster</persName>
+                    <persName ref="https://d-nb.info/gnd/116387416">Else C. Kraus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="258">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="259">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="260">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1955-12-01" notAfter="1955-12-31">Dezember 1955</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="261">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-01-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119512920">Erna Pinner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="262">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-01-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="263">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855199X">Walter Höllerer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="264">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="265">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-03-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="266">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-03-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118765191">Friedrich Sieburg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="267">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="268">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-04-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118687859">Kasimir Edschmid</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="269">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-04-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="270">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-04-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119512920">Erna Pinner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="271">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date to="1956-05-02" from="1956-04-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118765191">Friedrich Sieburg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="272">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-05-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118706675">Hans Egon Holthusen</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="273">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-05-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119089211">Astrid Claes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="274">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-05-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116603267">Paul S. Fleischmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="275">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-05-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118760629">Ina Seidel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="276">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-05-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118765191">Friedrich Sieburg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="277">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116171707">Gustav Kilpper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="278">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-05-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118734806">Max Niedermayer</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="279">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-06-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118750526">Max Rychner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#s635349d-e33c-4a5b-acf6-012b2d4e5499" key="130">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1947-04-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118514067">Margret Boveri</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,2694 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gottfried Benn - Briefe an Ursula Ziebarth</title>
+                <editor>Lena Kieninger<email>lena.kieninger@stud-mail.uni-wuerzburg.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.germanistik.uni-wuerzburg.de/prof-ndl/team/kraft/">Stephan Kraft</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2026-10-02T12:55:25.493-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="g6b532df-4cf6-403f-9317-2fe491c2bf5a">Gottfried Benn: Hernach. Gottfried Benns Briefe an Ursula Ziebarth, hg. v. Ursula Ziebarth/Jochen Meyer, Göttingen 2001.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                    <date when="1954-08-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                    <date when="1954-08-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-20">18.08.54, 19.08.54 und 20.08.54</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1954-08-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date when="1954-09-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-16">15.09.54 und 16.09.54</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date cert="low" when="1954-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159" cert="low">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2944388" cert="low">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2944388" cert="low">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-10-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1954-11-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                    <date when="1954-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679" cert="low">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2885679" cert="low">Konstanz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="99">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="103">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="105">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="107">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-09">08.12.54 und 09.12.54</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="111">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="112">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="113">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="114">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="115">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="116">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="118">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-29">28.12.54 und 29.12.54</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="119">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="120">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="121">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="123">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="124">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="125">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="126">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="127">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="128">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="130">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="131">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="132">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="134">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="135">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1955-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2944388" cert="low">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="136">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="137">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="138">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="139">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="140">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="141">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-17">16.01.55 und 17.01.55</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="142">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="143">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="144">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="145">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="146">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="147">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="148">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="149">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="150">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="151">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="152">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="153">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="154">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="155">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-01-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="156">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-01">31.01.55 und 01.02.55</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="157">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="158">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108" cert="low">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="159">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="160">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="161">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="162">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="163">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-02-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="164">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="165">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="166">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="167">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1955-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="168">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2944388" cert="low">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="169">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1955-03-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2944388" cert="low">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="170">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="171">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date cert="low" when="1955-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="172">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="173">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-12">11.03.55 und 12.03.55</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="174">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="175">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="176">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="177">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="178">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="179">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="180">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="182">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="183">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="184">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="185">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="186">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="187">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="188">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="189">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-09">07.04.55, 08.04.55 und 09.04.55</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="190">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="191">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="192">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2944388">Bremen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="193">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-14">13.04.55 und 14.04.55</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="194">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="195">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="196">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="197">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="198">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="199">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="200">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="201">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="202">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="203">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="204">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="205">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="206">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="207">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="208">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="209">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="210">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="211">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1955-04-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="212">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="213">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="214">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="215">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="216">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="217">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="218">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="219">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="220">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="221">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="222">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="223">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date evidence="conjecture" when="1955-05-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="224">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="225">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="226">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="227">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="228">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2886242" cert="low">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="229">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="230">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="231">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-05-29">28.05.55 und 29.05.55</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2886242">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="232">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-06-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="233">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047" cert="low">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159" cert="low">Berlin</placeName>
+                    <date cert="low" when="1955-06-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220" cert="low">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="234">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047" cert="low">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159" cert="low">Berlin</placeName>
+                    <date cert="low" when="1955-06-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220" cert="low">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="235">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047" cert="low">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159" cert="low">Berlin</placeName>
+                    <date cert="low" when="1955-06-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220" cert="low">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2950159" cert="low">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="236">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-06-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="237">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-06-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="238">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="239">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-07-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="240">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-07-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="241">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-07-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="242">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-07-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="243">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="244">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-09-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="245">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-09-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="246">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-10-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="247">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-01-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="248">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-01-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="249">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-05-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="250">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-05-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="251">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-06-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="252">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2838918">Schlangenbad</placeName>
+                    <date when="1956-06-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="7a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g6b532df-4cf6-403f-9317-2fe491c2bf5a" key="7b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-08-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123350220">Ursula Ziebarth</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
