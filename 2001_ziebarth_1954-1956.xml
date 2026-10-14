@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Gottfried Benn - Briefe an Ursula Ziebarth</title>
-                <editor>Lena Kieninger<email>lena.kieninger@stud-mail.uni-wuerzburg.de</email>
+                <editor>Lena Kieninger
                 </editor>
             </titleStmt>
             <publicationStmt>
@@ -14,6 +14,7 @@
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
                 <date when="2026-10-02T12:55:25.493-02:00"/>
+                <idno type="url">https://raw.githubusercontent.com/gottfried-benn/benn_cmif/refs/heads/main/2001_ziebarth_1954-1956.xml</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="print" xml:id="g6b532df-4cf6-403f-9317-2fe491c2bf5a">Gottfried Benn: Hernach. Gottfried Benns Briefe an Ursula Ziebarth, hg. v. Ursula Ziebarth/Jochen Meyer, Göttingen 2001.</bibl>
