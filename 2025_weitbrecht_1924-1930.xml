@@ -74,7 +74,6 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/117306703">Oda Weitbrecht</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2852458">Potsdam</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="6">
@@ -84,8 +83,7 @@
                     <date when="1925-11-12"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/117306703">Oda Weitbrecht</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <persName ref="https://d-nb.info/gnd/117306703">Oda Weitbrecht</persName>                    
                 </correspAction>
             </correspDesc>
             <correspDesc source="#lcd5a5f9-c6eb-44ca-9102-b2642e3e132f" key="7">
