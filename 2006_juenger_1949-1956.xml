@@ -55,7 +55,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date notBefore="1949-12-05" notAfter="1949-12-09"/>
+                    <date notBefore="1949-12-05" notAfter="1949-12-09" evidence="conjecture"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
@@ -178,7 +178,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date notBefore="1951-06-01" notAfter="1951-06-30"/>
+                    <date notBefore="1951-06-01" notAfter="1951-06-30" evidence="conjecture" />
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
@@ -481,7 +481,7 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
                     <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
-                    <date notBefore="1955-03-30"/>
+                    <date notBefore="1955-03-30" evidence="conjecture"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
