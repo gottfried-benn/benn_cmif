@@ -1,0 +1,577 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>2006_juenger_1949-1956</title>
+                <editor>Samuel Müller<email>samuel.mueller@uni-wuerzburg.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.germanistik.uni-wuerzburg.de/prof-ndl/team/kraft/">Stephan Kraft</ref>
+                </publisher>
+                <idno type="url">https://raw.githubusercontent.com/gottfried-benn/benn_cmif/refs/heads/main/2006_juenger_1949-1956.xml</idno>
+                <date when="2026-11-05T17:20:00.000+01:00"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="d863b04b-dc76-45c5-b7ec-8f6e49865d8b">Gottfried Benn – Ernst Jünger: Briefwechsel 1949–1956. Hg., kommentiert und mit einem Nachwort von Holger Hof. Stuttgart: Klett-Cotta 2006. (ISBN 978-3-608-93619-3)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2849802">Ravensburg</placeName>
+                    <date when="1949-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118923935">Armin Mohler</persName>
+                    <placeName ref="http://www.geonames.org/2849802">Ravensburg</placeName>
+                    <date when="1949-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-12-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1949-12-05" notAfter="1949-12-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2849802">Ravensburg</placeName>
+                    <date when="1949-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-12-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/3037456">Antibes</placeName>
+                    <date when="1950-06-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-07-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/3037456">Antibes</placeName>
+                    <date when="1950-07-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1950-08-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <persName ref="https://d-nb.info/gnd/118558595">Friedrich Georg Jünger</persName>
+                    <persName ref="https://d-nb.info/gnd/118923935">Armin Mohler</persName>
+                    <persName ref="https://d-nb.info/gnd/118563246">Ernst Klett</persName>
+                    <placeName ref="http://www.geonames.org/2911389">Haltingen</placeName>
+                    <date when="1951-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-05-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118923935">Armin Mohler</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1951-05-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/3037456">Antibes</placeName>
+                    <date when="1951-06-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/3037456">Antibes</placeName>
+                    <date when="1951-06-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1951-06-01" notAfter="1951-06-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118923935">Armin Mohler</persName>
+                    <persName ref="https://d-nb.info/gnd/117050989">Erhard Hürsch</persName>
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1951-07-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-09-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1951-09-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1951-10-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1951-11-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-11-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1951-11-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1951-11-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2661604">Basel</placeName>
+                    <date when="1952-01-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-03-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-03-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1952-03-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1952-03-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-06-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1952-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1952-06-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-06-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1952-11-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1952-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                    <date when="1953-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-04-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558595">Friedrich Georg Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <persName ref="https://d-nb.info/gnd/118923935">Armin Mohler</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1953-05-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558595">Friedrich Georg Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2820577">Überlingen</placeName>
+                    <date when="1953-05-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2907589">Heiligenhafen</placeName>
+                    <date when="1953-08-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date notBefore="1953-12-01" notAfter="1953-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1953-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1954-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2525473">Cagliari</placeName>
+                    <date when="1954-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2525473">Cagliari</placeName>
+                    <date when="1954-05-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date notBefore="1955-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date notAfter="1955-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1955-04-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1955-11-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1955-12-20" notAfter="1955-12-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1955-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1956-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795">Wilflingen</placeName>
+                    <date when="1956-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/3172996">Montecatini</placeName>
+                    <date when="1956-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
