@@ -90,6 +90,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="8">
@@ -427,6 +428,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118558587">Ernst Jünger</persName>
+                    <placeName ref="http://www.geonames.org/2808795" evidence="conjecture">Wilflingen</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="41">
@@ -467,6 +469,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="45">
@@ -477,6 +480,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="46">
@@ -537,6 +541,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="52">
@@ -557,6 +562,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#d863b04b-dc76-45c5-b7ec-8f6e49865d8b" key="54">
@@ -567,6 +573,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
