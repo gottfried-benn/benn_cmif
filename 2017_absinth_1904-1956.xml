@@ -12,6 +12,7 @@
                 </publisher>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                    <idno type="url">https://raw.githubusercontent.com/gottfried-benn/benn_cmif/refs/heads/main/2017_absinth_1904-1956.xml</idno>
                 </availability>
                 <date when="2026-01-27T14:44:01.356-01:00"/>
             </publicationStmt>
