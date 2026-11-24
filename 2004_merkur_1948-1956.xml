@@ -102,7 +102,7 @@
                     <orgName>Merkur</orgName>
                     <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
                     <persName ref="https://d-nb.info/gnd/117136182">Joachim Moras</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m20c3ffc-6d38-429e-8cdb-7912df37f8a9" key="8 - Merkur an Benn">
@@ -174,7 +174,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m20c3ffc-6d38-429e-8cdb-7912df37f8a9" key="14 - Paeschke an Benn">
@@ -185,7 +185,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1949-04-11"/>
                 </correspAction>
             </correspDesc>
@@ -233,6 +233,7 @@
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1949-07-30">
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m20c3ffc-6d38-429e-8cdb-7912df37f8a9" key="19 - Benn an Paeschke">
@@ -347,7 +348,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m20c3ffc-6d38-429e-8cdb-7912df37f8a9" key="29 - Benn an Paeschke">
@@ -427,7 +428,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m20c3ffc-6d38-429e-8cdb-7912df37f8a9" key="36 - Paeschke an Benn">
@@ -849,7 +850,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m20c3ffc-6d38-429e-8cdb-7912df37f8a9" key="73 - Moras an Benn">
@@ -907,7 +908,7 @@
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
                     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-                    <date evidence="conjecture" when="1952-09-17"/>
+                    <date when="1952-09-17"/>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m20c3ffc-6d38-429e-8cdb-7912df37f8a9" key="78 - Benn an Moras">
@@ -1158,7 +1159,7 @@
                     <orgName>Merkur</orgName>
                     <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
                     <persName ref="https://d-nb.info/gnd/117136182">Joachim Moras</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m20c3ffc-6d38-429e-8cdb-7912df37f8a9" key="100 - Moras an Benn">
@@ -1182,7 +1183,7 @@
                     <orgName>Merkur</orgName>
                     <persName ref="https://d-nb.info/gnd/116015225">Hans Paeschke</persName>
                     <persName ref="https://d-nb.info/gnd/117136182">Joachim Moras</persName>
-                    <placeName evidence="conjecture" ref="http://www.geonames.org/2867714">München</placeName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#m20c3ffc-6d38-429e-8cdb-7912df37f8a9" key="102 - Moras an Benn">
