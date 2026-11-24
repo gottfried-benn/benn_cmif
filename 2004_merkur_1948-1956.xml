@@ -185,7 +185,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118509047">Gottfried Benn</persName>
-                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2950159">Berlin</placeName>
                     <date when="1949-04-11"/>
                 </correspAction>
             </correspDesc>
